@@ -98,7 +98,7 @@ html, body {
 .imagen-mesa {
   position: absolute;
   bottom: -70px;
-  left: 0.5px;
+  left: 0px;
   width: 570px;
   pointer-events: none;
   z-index: 70;
